@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
 
-        System.out.println( "Hello Shi2nextiTestRevert!" );
+        System.out.println( "Hello Shi2nexti222!" );
 
     }
 }
